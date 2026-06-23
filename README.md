@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/796deebe-5bd6-47e0-93f0-af4d581d49a2
+
 # Programmable Alarm Clock SoC (Basys3, Artix-7)
 
 ## Overview
